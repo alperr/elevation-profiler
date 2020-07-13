@@ -1,9 +1,8 @@
 layer-picker>div{
-	position: fixed;
 	width: 126px;
 	height: 360px;
-	bottom: 10px;
-	left: 10px;
+	bottom: 1rem;
+	left: 1rem;
 	z-index: 10000000;
 }
 
